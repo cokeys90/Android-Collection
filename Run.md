@@ -10,3 +10,17 @@ adb shell am clear-debug-app
 ```zsh
 /Users/jeong-yunsu/Library/Android/sdk/platform-tools/adb connect 172.30.1.41:39421
 ```
+
+3.Gradle Task 다 안보일때
+a.File -> Settings -> Experimental -> ~ during Gradle Sync(Check)
+b.File -> Sync Project with Gradle Files
+
+# Wi-fi ADB pair
+```zsh
+adb pair 172.30.1.41:33761
+```
+
+# Wi-fi ADB connect
+```zsh
+adb connect 172.30.1.41:33761
+```

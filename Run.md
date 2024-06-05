@@ -4,7 +4,6 @@ adb shell am clear-debug-app
 ```
 
 
-
 ## Gradle Task 다 안보일때
 ```
 Step1: File -> Settings -> Experimental -> ~ during Gradle Sync(Check)
@@ -12,8 +11,6 @@ Step1: File -> Settings -> Experimental -> ~ during Gradle Sync(Check)
 ```
 Step2: File -> Sync Project with Gradle Files
 ```
-
-
 
 
 ## Wi-fi ADB Pair & Connect
@@ -25,3 +22,6 @@ adb pair 172.30.1.41:33761
 ```zsh
 adb connect 172.30.1.41:33761
 ```
+
+## IDE 이음자(Ligature) 설정
+Preferences > Editor > Colors&Fonts > Font > Enable font ligature

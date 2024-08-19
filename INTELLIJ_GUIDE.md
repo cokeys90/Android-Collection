@@ -15,6 +15,9 @@
 ```  
 
 ### 메소드 주석 자동완성 
-> `Preference` &rarr; `plugin`
-1.JavaDoc: 메소드 주석 자동생성  
-2.BugKotlinDocument: 코틀린 메소드 주석 자동완성 안되는 버그 해결
+> `Preference` &rarr; `plugin`  
+
+| 플러그인 이름 | 설명 |
+|:--|:--|
+| JavaDoc | 메소드 주석 자동생성  
+| BugKotlinDocument | 코틀린 메소드 주석 자동완성 안되는 버그 해결

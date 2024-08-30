@@ -23,5 +23,8 @@ adb pair 172.30.1.41:33761
 adb connect 172.30.1.41:33761
 ```
 
-## IDE 이음자(Ligature) 설정
-Preferences > Editor > Colors&Fonts > Font > Enable font ligature
+### IDE 이음자(Ligature) 설정
+`Preferences` > `Editor` > `Colors&Fonts` > `Font` > **Enable font ligature**
+
+### Tab Multiline (귀찮으면 Multiple rows 검색하면 찾기 쉬움)
+`Preferences` &rarr; `Editor` &rarr; `General` &rarr; `Editor Tabs` &rarr; **Multiple rows(check)**

@@ -21,3 +21,13 @@
 |:--|:--|
 | JavaDoc | 메소드 주석 자동생성  
 | BugKotlinDocument | 코틀린 메소드 주석 자동완성 안되는 버그 해결
+
+
+---
+
+### Color Scheme
+#### 커서 변수 배경색 설정
+a. `Editor` &rarr; `element at caret(체크)`  
+b. `Editor` &rarr; `Color Scheme` &rarr; `General` &rarr; `Code` &rarr; `Identifier under caret` &rarr; Background 색 변경 (84FFC6)  
+c. `Editor` &rarr; `Color Scheme` &rarr; `General` &rarr; `Code` &rarr; `Identifier under caret(write)` &rarr; Background 색 변경 (FF84CE)  
+d. `Editor` &rarr; `Color Scheme` &rarr; `General` &rarr; `Editor` &rarr; `Caret row` &rarr; Background 색 변경 (FF84CE)  
